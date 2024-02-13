@@ -1,9 +1,11 @@
+![AX.o.LOTL Splash Screen](https://github.com/ltham79/AX.o.LOTL/assets/139496887/9046e40e-0958-4afb-99f1-335dfc578510)
 
 # AX.o.LOTL - Living Off The Land
 
 AX.o.LOTL (Living Off The Land) is designed to assist in the exploitation and post-exploitation phases of penetration testing. AX.o.LOTL provides easy access to various living-off-the-land techniques for both Linux and Windows environments without leaving your terminal.
 
-![AX.o.LOTL Splash Screen](splash_screen.png)
+
+
 
 ## Features
 
@@ -60,6 +62,8 @@ On other operating systems, please refer to the respective package manager or ma
 
 ## Usage
 
+![Screenshot](https://github.com/ltham79/AX.o.LOTL/assets/139496887/88e094e2-6810-414e-8fe2-fc5e4ea3fea3)
+
 To run AX.o.LOTL, execute the `axolotl.sh` script with appropriate arguments:
 
 ```bash
@@ -75,12 +79,6 @@ Example:
 ```bash
 ./axolotl.sh curl -l
 ```
-
-## Screenshots
-
-![Splash Screen](screenshots/splash_screen.png)
-
-![Function Selection](screenshots/function_selection.png)
 
 ## Credits
 
