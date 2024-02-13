@@ -80,6 +80,9 @@ Example:
 ./axolotl.sh curl -l
 ```
 
+## Issues
+There are a few issues that I havent gotten around to fixing. Mainly in the way the script scrapes the webpages. For instance if there is more than one "exploit" for a given binary function it only displays the first one. Also when querying https://lolbas-project.github.io/ (for Windows) there can be a few problems as they do not follow the same HTML structure and I just didnt want to deal with it feel free to do so yourself. :-)
+
 ## Credits
 
 AX.o.LOTL is maintained by [Psiber_Syn](https://github.com/ltham79). The tool is inspired by various living-off-the-land techniques and resources available online from https://gtfobins.github.io/ (for Linux Binaries) and https://lolbas-project.github.io/ (for Windows) both without whom this wouldnt be possible. Props to the creators hard work!!!
