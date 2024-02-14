@@ -1,4 +1,6 @@
-![AX.o.LOTL Splash Screen](https://github.com/ltham79/AX.o.LOTL/assets/139496887/9046e40e-0958-4afb-99f1-335dfc578510)
+![AX.o.LOTL Splash Screen](https://github.com/ltham79/AX.o.LOTL/assets/139496887/3880842c-3ca3-4cdc-a0c9-6ca0beb28877)
+
+
 
 # AX.o.LOTL - Living Off The Land
 
@@ -62,7 +64,8 @@ On other operating systems, please refer to the respective package manager or ma
 
 ## Usage
 
-![Screenshot](https://github.com/ltham79/AX.o.LOTL/assets/139496887/88e094e2-6810-414e-8fe2-fc5e4ea3fea3)
+![Screenshot](https://github.com/ltham79/AX.o.LOTL/assets/139496887/90ae402d-b0d7-4175-a05c-731273df3831)
+
 
 To run AX.o.LOTL, execute the `axolotl.sh` script with appropriate arguments:
 
