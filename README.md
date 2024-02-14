@@ -20,14 +20,14 @@ AX.o.LOTL (Living Off The Land) is designed to assist in the exploitation and po
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/ltham79/AXoLOTL.git
+    git clone https://github.com/ltham79/AX.o.LOTL.git
     ```
 
 2. Make the script executable:
 
     ```bash
-    cd AXoLOTL
-    chmod +x axolotl.sh
+    cd AX.O.LOTL
+    chmod +x AXoLOTL.sh
     ```
 
 ## Dependencies
